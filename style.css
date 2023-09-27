@@ -1,0 +1,27 @@
+
+.taille{
+    position: absolute;
+    top: 15;
+    left: 1;
+    width: 100%;
+    height: 50%;
+   
+}
+.radon{
+    color: aqua;
+    font-size: 40px;
+}
+.vert{
+    color: red;
+    margin: 30px;
+    font-size: 45px;
+    text-align: center;
+    
+}
+.ode{
+    font-size: 50px;
+    color:red;
+}
+
+
+ <!-- commentaire-->
